@@ -14,6 +14,7 @@ AI Telegram Bot
 ```bash
 git clone https://github.com/nandrewdie/ai-telegram-bot.git
 cd ai-telegram-bot
+```
 2. Создайте виртуальное окружение:
 python -m venv venv
 venv\Scripts\activate
